@@ -1,0 +1,23 @@
+// {
+//     "examId": "SIN009",
+//     "name": "Second term",
+//     "subject": "Sinhala",
+//     "date": "12/12/2025",
+//     "timeStart": "09.30 am",
+//     "timeEnd": "11.30 am",
+//     "notice": "Up to lesson 1 Lesson 2 lesson 3 lesson 4 You should follow tutorials also coming question from that",
+//     "grade": 10,
+//     "mark":[{"stdID": "STD01",
+//             "mark":65}, 
+//             {"stdID": "STD02",
+//             "mark":89},
+//             {"stdID": "STD03",
+//             "mark":75},
+//             {"stdID": "STD01",
+//             "mark":65}, 
+//             {"stdID": "STD02",
+//             "mark":89},
+//             {"stdID": "STD03",
+//             "mark":75}
+//             ]
+// }
